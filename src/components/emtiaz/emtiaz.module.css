@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: red;
+  height: 400px;
+}
+
+.container .div1 .button1{
+  width: 120px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.container .div2 .button2{
+  width: 120px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+

@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: red;
+  height: 400px;
+}
+
+.container .div1 .button1{
+  width: 120px;
+  cursor: pointer;
+  margin-bottom: 10px;
+  border: solid red;
+  border-radius: 5%;
+  background-color: yellow;
+  color: red;
+}
+
+.container .div2 .button2{
+  width: 120px;
+  cursor: pointer;
+  margin-bottom: 10px;
+  border: solid red;
+  border-radius: 5%;
+  background-color: black;
+  color: red;
+
+}
